@@ -1,0 +1,13 @@
+# Nauka gita
+
+**BOLD TEXT**
+
+~~MISTAKE~~
+
+***IMPORTANT***
+
+>QUOTE
+
+## ZARAZ WRZUCIMY NA GITa
+
+~~COS NOWEGO~~
